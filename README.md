@@ -24,6 +24,3 @@
 - `F_SUB` - Optional, Your Force Subscribe Channel Id & Make Bot Admin Here In This Channel 
 - `MONGO_DB_URI` - Get mongodb database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](https://youtu.be/DAHRmFdw99o)</b>
 
-## Credits
-
-- <b>[Tech VJ](https://youtube.com/@Tech_VJ)</b>
