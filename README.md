@@ -1,4 +1,4 @@
-## VJ String Session Generator Bot 
+## String Session Generator Bot 
  
 ### Features
 
